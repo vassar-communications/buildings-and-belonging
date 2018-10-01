@@ -47,7 +47,7 @@ $iconFont: "icons" !important;
 $serif: "Georgia";
 $sans-serif: "acumin-pro", "Arial", "Helvetica";
 $sans-serif-condensed: "acumin-pro-extra-condensed", "Arial Narrow", "Helvetica Condensed";
-$fontWeightNormal: 300;
+$fontWeightNormal: 200;
 $fontWeightRegular: 400;
 $fontWeightMedium: 300;
 $fontWeightBold: 600;
@@ -58,8 +58,8 @@ $fontWeightBold: 600;
 /* Site breakpoints */
 
 $tiny: 25em; /* 400px divided by 16px */
-$small: 56.25em; /* 900px divided by 16px */
-$medium: 56.25em; /* 900px divided by 16px */
+$small: 56.25em; /* 600px divided by 16px */
+$medium: 56.25em; /* 800px divided by 16px */
 $large: 62.5em; /* 1000px divided by 16px */
 $xlarge: 143.75em;
 
@@ -81,7 +81,6 @@ $layoutContainerPadding--medium: 3%;
 	====== */
 
 $greyPantone410: #746661;
-$lightGreyPantone410: #dcd8d7;
 $maroonPresidents: #882344;
 $maroonPresidentsDark: #54162a;
 
@@ -144,7 +143,7 @@ $u-VCard__site--border: none;
 
 /* Images */
 
-$u-Figure__caption--font: $fontWeightRegular .8em $sans-serif;
+$u-Figure__caption--font: $fontWeightNormal .9em $sans-serif;
 
 $u-Figure__caption--linkColor: $linkColor;
 $u-Figure__caption--linkColorHoverFocus: $linkColorHoverFocus;
