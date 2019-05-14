@@ -1,6 +1,141 @@
 @import "_mixins";
 @import "_config";
 
+
+ /* ==============================
+ *	TYPOGRAPHY
+ * ==============================
+ */
+
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1.802em;
+}
+h3 {
+    font-size: 1.4em;
+}
+h4 {
+    font-size: 1.2em;
+}
+.u-pageHome .u-lContent {
+	margin-top: 1.5em;
+}
+strong {
+	font-weight: $fontWeightRegular;
+}
+ .u-Masthead__siteName {
+	padding: 0;
+}
+.u-Masthead__subhead {
+    text-align: center;
+}
+.u-NavSite__level--1 .u-NavSite__item--isCurrent {
+	font: $fontWeightBold 1.95em/1.1 $sans-serif;
+	color: $linkColorVisited;
+}
+@media all and (min-width: $small) {
+
+	.u-NavSite__itemContainer {
+		padding: 0 0 .65em;
+	}
+	.u-NavSite__level--1 .u-NavSite__item--isCurrent {
+		font: $fontWeightBold 1.1em/1.1 $sans-serif;
+	}
+}
+@media all and (min-width: 73.75em) {
+	.u-Masthead__siteName {
+		font-size: 7em;
+	}
+}
+
+
+/* ==============================
+ *	LAYOUT
+ * ==============================
+ */
+
+.u-BreadCrumbs,
+.u-pageHome .u-pageTitle {
+    display: none;
+    visibility: hidden;
+}
+.u-lHeader {
+    margin: 4em 15% .5em !important;
+    padding: 0 0 2.5em !important;
+    border-bottom: 1px solid $lightGreyPantone410;
+}
+.u-pageHome {
+    .u-NavSite {
+        margin: 2.5em 0 5.5em;
+    }
+}
+.u-lMain, .u-lAside {
+    width: 100%;
+}
+.u-lContent {
+    padding: 0 5%;
+    width: 100%;
+}
+.u-Video {
+    margin-top: 0;
+}
+.u-ExtendedFooter__listGroup {
+    padding: 2em 0 0;
+}
+.u-ExtendedFooter__listContainer {
+    margin: 0 1em;
+    padding: 0 1em 1em;
+}
+.u-ExtendedFooter__listGroup {
+    margin-bottom: 2em;
+}
+ .SocialAccount__iconList {
+    margin: 0 0 2em 0;
+}
+.SocialAccount__iconTarget {
+    height: 2em;
+    width: 2em;
+}
+@media all and (min-width: 43.75em) {
+    .u-ExtendedFooter__listGroup {
+ 		justify-content: center;
+    }
+}
+@media all and (min-width: $small) {
+    .u-lMain {
+		margin: 0;
+		padding: 0 15% 5em 1.5em;
+		width: 65%;
+	}
+    .u-NavSite {
+		width: 35%;
+		padding: 0 1.5em 0 15%;
+		margin: 6.5em 0;
+		border-right: 1px solid $lightGreyPantone410;
+	}
+    .u-lFooter {
+        padding: 2em 3% 2em;
+    }
+}
+
+
+/* ==============================
+ *	COLOR
+ * ==============================
+ */
+.u-lFooter {
+	a {
+		@include link-colors(#fff, $linkColorHoverFocus, $linkColorActive, #fff, $linkColorHoverFocus);
+	}
+}
+.u-VCard--site {
+    .u-VCard__item--contact {
+        @include link-colors(#fff, $linkColorHoverFocus, $linkColorActive, #fff, $linkColorHoverFocus);
+    }
+}
+
 .vassar_plaid {
 	background-size: cover;
 	background: #ebe9e8 url(../../../assets/images/about-mission-bg.png) repeat;
