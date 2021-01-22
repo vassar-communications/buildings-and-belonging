@@ -1,7 +1,92 @@
- /* ==============================
+@media screen and (min-width: 37.5em) {
+    .u-pageHome {
+        .RowContainer:first-of-type {
+            padding-top: 2.5em;
+        }
+    }
+    body {
+        grid-column-gap: 0;
+        grid-template-areas:
+            "kint-container kint-container kint-container kint-container"
+            "banner-covid19 banner-covid19 banner-covid19 banner-covid19" 
+            "global-masthead global-masthead global-masthead global-masthead"
+            "global-navigation global-navigation global-navigation global-navigation"
+            "header header header header"
+            ". site-navigation main ."
+            "footer footer footer footer";
+        grid-template-columns: 1fr minmax(5em, 20rem) minmax(5em, 48rem) 1fr;
+    }
+    .u-NavSite__level {
+        flex-flow: column nowrap;
+        justify-content: left;
+        text-align: left;
+    }
+    #navigation .u-NavSite__level--1:first-of-type {
+        padding-top: 0 !important;
+    }    
+    .u-NavSite__level--1 {
+        margin: 3em 0 0 !important;
+        border-bottom: none !important;
+        border-right: 1px solid #eee;
+        .u-NavSite__item {
+            padding-right: 2em;
+        }
+    }
+}
+.u-lContent {
+    margin-bottom: 2em;
+}
+blockquote {
+    padding-left: 1.5em;
+    border-left: 2px solid #d7cfcc;
+    font-size: .93em;
+    margin-bottom: 3em;
+}
+.figcaption {
+    line-height: 1.24;
+    margin-top: .8em;
+    max-width: 30em;
+    font-weight: inherit;
+    padding-bottom: 1em;
+    display: block;
+    font-style: italic;
+}
+.u-lHeader {
+    background-image: url(../images/adm-site-banner.jpg);
+    padding: 25% 8% 0 0;
+}
+.u-folderThe-alana-center .u-lHeader {
+    background-image: url(../images/alana-center-RDM-18.jpg);
+    background-position: center;
+}
+.u-folderAlumnae-house .u-lHeader {
+    background-image: url(../images/alumnae-house-8646.jpg);
+    background-position: center;
+}
+.u-folderThe-chapel .u-lHeader {
+    background-image: url(../images/slideshows/chapel/chapel-spring-16-tt-1240-standard.jpg);
+    background-position: center;
+}
+.u-folderThe-frederick-ferris-thompson-memorial-library .u-lHeader {
+    background-image: url(https://www.vassar.edu/academics/assets/images/academic-libraries.jpg);
+    background-position: center;
+}
+.u-folderOld-laundry-building .u-lHeader {
+    background-image: url(../images/old-laundry-building.jpg);
+    background-position: center;
+}
+.u-folderKendrick-house .u-lHeader {
+    background-image: url(../images/kendrick-house.jpg);
+    background-position: center;
+}
+.u-folderLathrop-house .u-lHeader {
+    background-image: url(../images/Lathrop-spring-TT-49.jpg);
+    background-position: center;
+}
+
+/* ==============================
  *	TYPOGRAPHY
  * ==============================
- */
 
 h1 {
     font-size: 2em;
@@ -48,12 +133,12 @@ strong {
 	.u-Masthead__siteName {
 		font-size: 7em;
 	}
-}
+}  */
 
 /* ==============================
  *	LAYOUT
  * ==============================
- */
+
 
 .u-BreadCrumbs,
 .u-pageHome .u-pageTitle {
@@ -112,11 +197,11 @@ strong {
     .u-lFooter {
         padding: 2em 3% 2em;
     }
-}
+} */
 /* ==============================
  *	COLOR
  * ==============================
- */
+
 .u-lFooter {
 	a {
 		@include link-colors(#fff, $linkColorHoverFocus, $linkColorActive, #fff, $linkColorHoverFocus);
@@ -126,4 +211,4 @@ strong {
     .u-VCard__item--contact {
         @include link-colors(#fff, $linkColorHoverFocus, $linkColorActive, #fff, $linkColorHoverFocus);
     }
-}
+} */

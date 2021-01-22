@@ -51,6 +51,7 @@ design-files/
 node_modules/
 concatenated/
 prefixed/
+images/
 wurfl-php-1.7.1.1/
 
 *.codekit
