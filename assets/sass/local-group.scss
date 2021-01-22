@@ -16,22 +16,24 @@
             "footer footer footer footer";
         grid-template-columns: 1fr minmax(5em, 20rem) minmax(5em, 48rem) 1fr;
     }
-    .u-NavSite__level {
-        flex-flow: column nowrap;
-        justify-content: left;
-        text-align: left;
+    .u-NavSite__main {
+        .u-NavSite__level {
+            flex-flow: column nowrap;
+            justify-content: left;
+            text-align: left;
+        }
+        .u-NavSite__level--1 {
+            margin: 3em 0 0 !important;
+            border-bottom: none !important;
+            border-right: 1px solid #eee;
+            .u-NavSite__item {
+                padding-right: 2em;
+            }
+        }
     }
     #navigation .u-NavSite__level--1:first-of-type {
         padding-top: 0 !important;
     }    
-    .u-NavSite__level--1 {
-        margin: 3em 0 0 !important;
-        border-bottom: none !important;
-        border-right: 1px solid #eee;
-        .u-NavSite__item {
-            padding-right: 2em;
-        }
-    }
 }
 .u-lContent {
     margin-bottom: 2em;
@@ -83,132 +85,31 @@ blockquote {
     background-image: url(../images/Lathrop-spring-TT-49.jpg);
     background-position: center;
 }
-
-/* ==============================
- *	TYPOGRAPHY
- * ==============================
-
-h1 {
-    font-size: 2em;
+.u-folderMain-building .u-lHeader {
+    background-image: url(../images/Main-Building-summer-MFi.jpg);
+    background-position: center top;
 }
-h2 {
-    font-size: 1.802em;
+.u-folderBlodgett-hall .u-lHeader {
+    background-image: url(../images/Blodgett-Hall-02-WF-5.jpg);
+    background-position: center top;
 }
-h3 {
-    font-size: 1.4em;
+.u-folderThe-frances-lehman-loeb-art-center .u-lHeader {
+    background-image: url(../images/Frances-Lehman-Loeb-Art-Center-SF.jpg);
+    background-position: center;
 }
-h4 {
-    font-size: 1.2em;
+.u-folderSkinner-hall .u-lHeader {
+    background-image: url(../images/Skinner-Hall-1004-JA_138.jpg);
+    background-position: center;
 }
-.u-lContent {
-    font-size: 1.4em;
-	margin-top: 1.5em;
+.u-folderSwift-hall .u-lHeader {
+    background-image: url(../images/Swift-Hall-spring-1104-TT-9331.jpg);
+    background-position: center;
 }
-strong {
-	font-weight: $fontWeightRegular;
+.u-folderNew-england-building .u-lHeader {
+    background-image: url(../images/new-england-0087_14_09_KR_0028.jpg);
+    background-position: center;
 }
- .u-Masthead__siteName {
-	padding: 0;
+.u-folderRaymond-house .u-lHeader {
+    background-image: url(../images/Raymond-House-fall-1010-TT-01605.jpg);
+    background-position: center;
 }
-.u-Masthead__subhead {
-    text-align: center;
-}
-.u-lMain {
-	float: right;
-}
-.u-NavSite__level--1 .u-NavSite__item--isCurrent {
-	font: $fontWeightBold 1.95em/1.1 $sans-serif;
-	color: $linkColorVisited;
-}
-@media all and (min-width: $small) {
-
-	.u-NavSite__itemContainer {
-		padding: 0 0 .65em;
-	}
-	.u-NavSite__level--1 .u-NavSite__item--isCurrent {
-		font: $fontWeightBold 1.1em/1.1 $sans-serif;
-	}
-}
-@media all and (min-width: 73.75em) {
-	.u-Masthead__siteName {
-		font-size: 7em;
-	}
-}  */
-
-/* ==============================
- *	LAYOUT
- * ==============================
-
-
-.u-BreadCrumbs,
-.u-pageHome .u-pageTitle {
-    display: none;
-    visibility: hidden;
-}
-.u-lHeader {
-    margin: 4em 15% .5em !important;
-    padding: 0 0 2.5em !important;
-    border-bottom: 1px solid $lightGreyPantone410;
-}
-.u-lMain, .u-lAside {
-    width: 100%;
-}
-.u-lContent {
-    padding: 0 5%;
-    width: 100%;
-}
-.u-Video {
-    margin-top: 0;
-}
-.u-ExtendedFooter__listGroup {
-    padding: 2em 0 0;
-}
-.u-ExtendedFooter__listContainer {
-    margin: 0 1em;
-    padding: 0 1em 1em;
-}
-.u-ExtendedFooter__listGroup {
-    margin-bottom: 2em;
-}
- .SocialAccount__iconList {
-    margin: 0 0 2em;
-}
-.SocialAccount__iconTarget {
-    height: 2em;
-    width: 2em;
-}
-@media all and (min-width: 43.75em) {
-    .u-ExtendedFooter__listGroup {
- 		justify-content: center;
-    }
-}
-@media all and (min-width: $small) {
-    .u-lMain {
-		margin: 0;
-		padding: 0 15% 5em 1.5em;
-		width: 65%;
-	}
-    .u-NavSite {
-		width: 35%;
-		padding: 0 1.5em 0 15%;
-		margin: 2.5em 0 5.5em;
-		border-right: 1px solid $lightGreyPantone410;
-	}
-    .u-lFooter {
-        padding: 2em 3% 2em;
-    }
-} */
-/* ==============================
- *	COLOR
- * ==============================
-
-.u-lFooter {
-	a {
-		@include link-colors(#fff, $linkColorHoverFocus, $linkColorActive, #fff, $linkColorHoverFocus);
-	}
-}
-.u-VCard--site {
-    .u-VCard__item--contact {
-        @include link-colors(#fff, $linkColorHoverFocus, $linkColorActive, #fff, $linkColorHoverFocus);
-    }
-} */

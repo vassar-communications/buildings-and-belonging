@@ -17,6 +17,14 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/assets/Archive.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/Archive.zip",
+		"oF": 0
+		},
 	"/assets/css/local-group.css": {
 		"aP": 1,
 		"bl": 0,
@@ -26,6 +34,32 @@
 		"oAP": "/assets/css/local-group-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/assets/new-england-0087_14_09_KR_0028.jpg": {
+		"ft": 16384,
+		"iS": 204684,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/new-england-0087_14_09_KR_0028.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/assets/Raymond-House-fall-1010-TT-01605.jpg": {
+		"ft": 16384,
+		"iS": 264785,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Raymond-House-fall-1010-TT-01605.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/assets/sass/_notes/dwsync.xml": {
 		"cB": 0,
@@ -47,6 +81,32 @@
 		"oF": 2,
 		"oS": 3,
 		"sct": 1
+		},
+	"/assets/Skinner-Hall-1004-JA_138.jpg": {
+		"ft": 16384,
+		"iS": 137688,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Skinner-Hall-1004-JA_138.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/assets/Swift-Hall-spring-1104-TT-9331.jpg": {
+		"ft": 16384,
+		"iS": 294149,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Swift-Hall-spring-1104-TT-9331.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/design-files/404.html": {
 		"cB": 0,
