@@ -17,12 +17,12 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/assets/Archive.zip": {
+	"/assets/css/_notes/dwsync.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/Archive.zip",
+		"oAP": "/assets/css/_notes/dwsync.xml",
 		"oF": 0
 		},
 	"/assets/css/local-group.css": {
@@ -35,31 +35,18 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/assets/new-england-0087_14_09_KR_0028.jpg": {
-		"ft": 16384,
-		"iS": 204684,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/new-england-0087_14_09_KR_0028.jpg",
+	"/assets/sass/_add-on.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"ec": 1,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/sass/_add-on.css",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/assets/Raymond-House-fall-1010-TT-01605.jpg": {
-		"ft": 16384,
-		"iS": 264785,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Raymond-House-fall-1010-TT-01605.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
+		"oS": 0,
+		"sct": 0
 		},
 	"/assets/sass/_notes/dwsync.xml": {
 		"cB": 0,
@@ -82,128 +69,20 @@
 		"oS": 3,
 		"sct": 1
 		},
-	"/assets/Skinner-Hall-1004-JA_138.jpg": {
-		"ft": 16384,
-		"iS": 137688,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Skinner-Hall-1004-JA_138.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/assets/Swift-Hall-spring-1104-TT-9331.jpg": {
-		"ft": 16384,
-		"iS": 294149,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Swift-Hall-spring-1104-TT-9331.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/design-files/404.html": {
+	"/design-files/images/_notes/dwsync.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/design-files/404.html",
+		"oAP": "/design-files/images/_notes/dwsync.xml",
 		"oF": 0
 		},
-	"/design-files/acknowledgments/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/acknowledgments/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/acknowledgments/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/acknowledgments/index.html",
-		"oF": 0
-		},
-	"/design-files/alumnae-house/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/alumnae-house/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/alumnae-house/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/alumnae-house/index.html",
-		"oF": 0
-		},
-	"/design-files/assets/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/assets/config.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/design-files/assets/config-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/design-files/assets/config.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/config.php",
-		"oF": 0
-		},
-	"/design-files/assets/css/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/css/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/assets/css/local-group.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/css/local-group-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/design-files/assets/images/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/images/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/assets/images/about-header-bg.jpg": {
+	"/design-files/images/about-header-bg.jpg": {
 		"ft": 16384,
 		"iS": 173121,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/about-header-bg.jpg",
+		"oAP": "/design-files/images/about-header-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -211,12 +90,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/about-history-bg.jpg": {
+	"/design-files/images/about-history-bg.jpg": {
 		"ft": 16384,
 		"iS": 137426,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/about-history-bg.jpg",
+		"oAP": "/design-files/images/about-history-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -224,11 +103,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/about-mission-bg.png": {
+	"/design-files/images/about-mission-bg.png": {
 		"ft": 32768,
 		"iS": 254,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/about-mission-bg.png",
+		"oAP": "/design-files/images/about-mission-bg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -237,12 +116,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/alana-center-8330.jpg": {
+	"/design-files/images/alana-center-8330.jpg": {
 		"ft": 16384,
 		"iS": 491366,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/alana-center-8330.jpg",
+		"oAP": "/design-files/images/alana-center-8330.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -250,12 +129,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/alana-center-Johnson-Jeh.jpg": {
+	"/design-files/images/alana-center-Johnson-Jeh.jpg": {
 		"ft": 16384,
 		"iS": 257575,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/alana-center-Johnson-Jeh.jpg",
+		"oAP": "/design-files/images/alana-center-Johnson-Jeh.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -263,12 +142,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/alana-center-RDM-18.jpg": {
+	"/design-files/images/alana-center-RDM-18.jpg": {
 		"ft": 16384,
 		"iS": 1538687,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/alana-center-RDM-18.jpg",
+		"oAP": "/design-files/images/alana-center-RDM-18.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -276,12 +155,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/alumnae-house-8646.jpg": {
+	"/design-files/images/alumnae-house-8646.jpg": {
 		"ft": 16384,
 		"iS": 548778,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/alumnae-house-8646.jpg",
+		"oAP": "/design-files/images/alumnae-house-8646.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -289,12 +168,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/Anita-Hemmings.jpg": {
+	"/design-files/images/Anita-Hemmings.jpg": {
 		"ft": 16384,
 		"iS": 80510,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/Anita-Hemmings.jpg",
+		"oAP": "/design-files/images/Anita-Hemmings.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -302,12 +181,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/Audra-McDonald-1702-KR_5457.jpg": {
+	"/design-files/images/Audra-McDonald-1702-KR_5457.jpg": {
 		"ft": 16384,
 		"iS": 70771,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/Audra-McDonald-1702-KR_5457.jpg",
+		"oAP": "/design-files/images/Audra-McDonald-1702-KR_5457.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -315,12 +194,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/blodgett-smith-henrietta.jpg": {
+	"/design-files/images/blodgett-smith-henrietta.jpg": {
 		"ft": 16384,
 		"iS": 421768,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/blodgett-smith-henrietta.jpg",
+		"oAP": "/design-files/images/blodgett-smith-henrietta.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -328,20 +207,20 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/blodgett-smith-henrietta.tif": {
+	"/design-files/images/blodgett-smith-henrietta.tif": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/blodgett-smith-henrietta.tif",
+		"oAP": "/design-files/images/blodgett-smith-henrietta.tif",
 		"oF": 0
 		},
-	"/design-files/assets/images/chapel-fall-tt_2840.jpg": {
+	"/design-files/images/chapel-fall-tt_2840.jpg": {
 		"ft": 16384,
 		"iS": 2635698,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/chapel-fall-tt_2840.jpg",
+		"oAP": "/design-files/images/chapel-fall-tt_2840.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -349,12 +228,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/chapel-gospel.jpg": {
+	"/design-files/images/chapel-gospel.jpg": {
 		"ft": 16384,
 		"iS": 1793299,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/chapel-gospel.jpg",
+		"oAP": "/design-files/images/chapel-gospel.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -362,12 +241,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/chapel-KR_6446.jpg": {
+	"/design-files/images/chapel-KR_6446.jpg": {
 		"ft": 16384,
 		"iS": 2940623,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/chapel-KR_6446.jpg",
+		"oAP": "/design-files/images/chapel-KR_6446.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -375,12 +254,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/chapel-spring-16-tt-1240.jpg": {
+	"/design-files/images/chapel-spring-16-tt-1240.jpg": {
 		"ft": 16384,
 		"iS": 4535231,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/chapel-spring-16-tt-1240.jpg",
+		"oAP": "/design-files/images/chapel-spring-16-tt-1240.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -388,12 +267,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/chapel-tt_9670.jpg": {
+	"/design-files/images/chapel-tt_9670.jpg": {
 		"ft": 16384,
 		"iS": 3915260,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/chapel-tt_9670.jpg",
+		"oAP": "/design-files/images/chapel-tt_9670.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -401,12 +280,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/chapel-tt_9674.jpg": {
+	"/design-files/images/chapel-tt_9674.jpg": {
 		"ft": 16384,
 		"iS": 3976012,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/chapel-tt_9674.jpg",
+		"oAP": "/design-files/images/chapel-tt_9674.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -414,12 +293,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/chapel-tt_9682.jpg": {
+	"/design-files/images/chapel-tt_9682.jpg": {
 		"ft": 16384,
 		"iS": 4617724,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/chapel-tt_9682.jpg",
+		"oAP": "/design-files/images/chapel-tt_9682.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -427,12 +306,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/kendrick-aavc-2018.jpg": {
+	"/design-files/images/kendrick-aavc-2018.jpg": {
 		"ft": 16384,
 		"iS": 554464,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/kendrick-aavc-2018.jpg",
+		"oAP": "/design-files/images/kendrick-aavc-2018.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -440,12 +319,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/Kendrick-Dorm-1969-1970.jpg": {
+	"/design-files/images/Kendrick-Dorm-1969-1970.jpg": {
 		"ft": 16384,
 		"iS": 129480,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/Kendrick-Dorm-1969-1970.jpg",
+		"oAP": "/design-files/images/Kendrick-Dorm-1969-1970.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -453,12 +332,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/kendrick-house.jpg": {
+	"/design-files/images/kendrick-house.jpg": {
 		"ft": 16384,
 		"iS": 423280,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/kendrick-house.jpg",
+		"oAP": "/design-files/images/kendrick-house.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -466,12 +345,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/Lathrop-spring-TT-49.jpg": {
+	"/design-files/images/Lathrop-spring-TT-49.jpg": {
 		"ft": 16384,
 		"iS": 202529,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/Lathrop-spring-TT-49.jpg",
+		"oAP": "/design-files/images/Lathrop-spring-TT-49.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -479,12 +358,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/library-students.jpg": {
+	"/design-files/images/library-students.jpg": {
 		"ft": 16384,
 		"iS": 389069,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/library-students.jpg",
+		"oAP": "/design-files/images/library-students.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -492,12 +371,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/library.jpg": {
+	"/design-files/images/library.jpg": {
 		"ft": 16384,
 		"iS": 643500,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/library.jpg",
+		"oAP": "/design-files/images/library.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -505,12 +384,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Arnold-Joseph-Kemp-2.jpg": {
+	"/design-files/images/loeb-Arnold-Joseph-Kemp-2.jpg": {
 		"ft": 16384,
 		"iS": 348403,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Arnold-Joseph-Kemp-2.jpg",
+		"oAP": "/design-files/images/loeb-Arnold-Joseph-Kemp-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -518,12 +397,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Arnold-Joseph-Kemp.jpg": {
+	"/design-files/images/loeb-Arnold-Joseph-Kemp.jpg": {
 		"ft": 16384,
 		"iS": 135644,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Arnold-Joseph-Kemp.jpg",
+		"oAP": "/design-files/images/loeb-Arnold-Joseph-Kemp.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -531,12 +410,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Elizabeth-Catlett.jpg": {
+	"/design-files/images/loeb-Elizabeth-Catlett.jpg": {
 		"ft": 16384,
 		"iS": 476958,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Elizabeth-Catlett.jpg",
+		"oAP": "/design-files/images/loeb-Elizabeth-Catlett.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -544,12 +423,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Ellen-Gallagher.jpg": {
+	"/design-files/images/loeb-Ellen-Gallagher.jpg": {
 		"ft": 16384,
 		"iS": 177295,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Ellen-Gallagher.jpg",
+		"oAP": "/design-files/images/loeb-Ellen-Gallagher.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -557,12 +436,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Fred-Wilson.jpg": {
+	"/design-files/images/loeb-Fred-Wilson.jpg": {
 		"ft": 16384,
 		"iS": 91543,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Fred-Wilson.jpg",
+		"oAP": "/design-files/images/loeb-Fred-Wilson.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -570,12 +449,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Gordon-Parks.jpg": {
+	"/design-files/images/loeb-Gordon-Parks.jpg": {
 		"ft": 16384,
 		"iS": 150978,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Gordon-Parks.jpg",
+		"oAP": "/design-files/images/loeb-Gordon-Parks.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -583,12 +462,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-hank-willis-thomas.jpg": {
+	"/design-files/images/loeb-hank-willis-thomas.jpg": {
 		"ft": 16384,
 		"iS": 532838,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-hank-willis-thomas.jpg",
+		"oAP": "/design-files/images/loeb-hank-willis-thomas.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -596,12 +475,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Jacob-Lawrence.jpg": {
+	"/design-files/images/loeb-Jacob-Lawrence.jpg": {
 		"ft": 16384,
 		"iS": 114091,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Jacob-Lawrence.jpg",
+		"oAP": "/design-files/images/loeb-Jacob-Lawrence.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -609,12 +488,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-James-Van-Der-Zee.jpg": {
+	"/design-files/images/loeb-James-Van-Der-Zee.jpg": {
 		"ft": 16384,
 		"iS": 135960,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-James-Van-Der-Zee.jpg",
+		"oAP": "/design-files/images/loeb-James-Van-Der-Zee.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -622,12 +501,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Kara-Walker.jpg": {
+	"/design-files/images/loeb-Kara-Walker.jpg": {
 		"ft": 16384,
 		"iS": 96536,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Kara-Walker.jpg",
+		"oAP": "/design-files/images/loeb-Kara-Walker.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -635,12 +514,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-night.jpg": {
+	"/design-files/images/loeb-night.jpg": {
 		"ft": 16384,
 		"iS": 156403,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-night.jpg",
+		"oAP": "/design-files/images/loeb-night.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -648,12 +527,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/loeb-Thornton-Dial.jpg": {
+	"/design-files/images/loeb-Thornton-Dial.jpg": {
 		"ft": 16384,
 		"iS": 243472,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/loeb-Thornton-Dial.jpg",
+		"oAP": "/design-files/images/loeb-Thornton-Dial.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -661,12 +540,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/main-0058.jpg": {
+	"/design-files/images/main-0058.jpg": {
 		"ft": 16384,
 		"iS": 2135458,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/main-0058.jpg",
+		"oAP": "/design-files/images/main-0058.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -674,12 +553,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/main-1969-sit-in.jpg": {
+	"/design-files/images/main-1969-sit-in.jpg": {
 		"ft": 16384,
 		"iS": 884599,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/main-1969-sit-in.jpg",
+		"oAP": "/design-files/images/main-1969-sit-in.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -687,12 +566,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/main-SPC-2.jpg": {
+	"/design-files/images/main-SPC-2.jpg": {
 		"ft": 16384,
 		"iS": 4934634,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/main-SPC-2.jpg",
+		"oAP": "/design-files/images/main-SPC-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -700,12 +579,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/main-Takeover-Headline.jpg": {
+	"/design-files/images/main-Takeover-Headline.jpg": {
 		"ft": 16384,
 		"iS": 2908834,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/main-Takeover-Headline.jpg",
+		"oAP": "/design-files/images/main-Takeover-Headline.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -713,12 +592,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/main-takover.jpg": {
+	"/design-files/images/main-takover.jpg": {
 		"ft": 16384,
 		"iS": 157665,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/main-takover.jpg",
+		"oAP": "/design-files/images/main-takover.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -726,12 +605,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/new-england-African-American-Student.jpg": {
+	"/design-files/images/new-england-African-American-Student.jpg": {
 		"ft": 16384,
 		"iS": 378959,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/new-england-African-American-Student.jpg",
+		"oAP": "/design-files/images/new-england-African-American-Student.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -739,12 +618,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/new-england-Milfred-Fierce.jpg": {
+	"/design-files/images/new-england-Milfred-Fierce.jpg": {
 		"ft": 16384,
 		"iS": 1553270,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/new-england-Milfred-Fierce.jpg",
+		"oAP": "/design-files/images/new-england-Milfred-Fierce.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -752,12 +631,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/old-laundry-building-africana-studies.jpg": {
+	"/design-files/images/old-laundry-building-africana-studies.jpg": {
 		"ft": 16384,
 		"iS": 727102,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/old-laundry-building-africana-studies.jpg",
+		"oAP": "/design-files/images/old-laundry-building-africana-studies.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -765,12 +644,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/old-laundry-building.jpg": {
+	"/design-files/images/old-laundry-building.jpg": {
 		"ft": 16384,
 		"iS": 584326,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/old-laundry-building.jpg",
+		"oAP": "/design-files/images/old-laundry-building.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -778,12 +657,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/Raymond-House-Vassarion-1944-McCleary.jpg": {
+	"/design-files/images/Raymond-House-Vassarion-1944-McCleary.jpg": {
 		"ft": 16384,
 		"iS": 180129,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/Raymond-House-Vassarion-1944-McCleary.jpg",
+		"oAP": "/design-files/images/Raymond-House-Vassarion-1944-McCleary.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -791,12 +670,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/Raymond-House-Vassarion-1945-4 Cottrell.jpg": {
+	"/design-files/images/Raymond-House-Vassarion-1945-4 Cottrell.jpg": {
 		"ft": 16384,
 		"iS": 104632,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/Raymond-House-Vassarion-1945-4 Cottrell.jpg",
+		"oAP": "/design-files/images/Raymond-House-Vassarion-1945-4 Cottrell.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -804,12 +683,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/Raymond-House-Vassarion-1945-4-Jackson.jpg": {
+	"/design-files/images/Raymond-House-Vassarion-1945-4-Jackson.jpg": {
 		"ft": 16384,
 		"iS": 81706,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/Raymond-House-Vassarion-1945-4-Jackson.jpg",
+		"oAP": "/design-files/images/Raymond-House-Vassarion-1945-4-Jackson.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -817,318 +696,18 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/design-files/assets/images/swift-ready.jpg": {
+	"/design-files/images/swift-ready.jpg": {
 		"ft": 16384,
 		"iS": 635729,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/design-files/assets/images/swift-ready.jpg",
+		"oAP": "/design-files/images/swift-ready.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
-		},
-	"/design-files/assets/nav.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/nav.html",
-		"oF": 0
-		},
-	"/design-files/assets/plugins/Galleria/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/plugins/Galleria/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/assets/plugins/Galleria/config.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/design-files/assets/plugins/Galleria/config-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/design-files/assets/sass/_config.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/design-files/assets/sass/_config.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 0
-		},
-	"/design-files/assets/sass/_local-buildings-and-belonging.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/design-files/assets/sass/_local-buildings-and-belonging.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 0
-		},
-	"/design-files/assets/sass/_mixins.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/design-files/assets/sass/_mixins.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 0
-		},
-	"/design-files/assets/sass/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/sass/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/assets/sass/local-group.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/design-files/assets/sass/local-group.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 0
-		},
-	"/design-files/blodgett/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/blodgett/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/blodgett/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/blodgett/index.html",
-		"oF": 0
-		},
-	"/design-files/chapel/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/chapel/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/chapel/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/chapel/index.html",
-		"oF": 0
-		},
-	"/design-files/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/index.html",
-		"oF": 0
-		},
-	"/design-files/kendrick-house/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/kendrick-house/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/kendrick-house/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/kendrick-house/index.html",
-		"oF": 0
-		},
-	"/design-files/lathrop-house/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/lathrop-house/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/lathrop-house/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/lathrop-house/index.html",
-		"oF": 0
-		},
-	"/design-files/main-building/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/main-building/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/main-building/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/main-building/index.html",
-		"oF": 0
-		},
-	"/design-files/new-england-building/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/new-england-building/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/new-england-building/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/new-england-building/index.html",
-		"oF": 0
-		},
-	"/design-files/old-laundry-building/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/old-laundry-building/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/old-laundry-building/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/old-laundry-building/index.html",
-		"oF": 0
-		},
-	"/design-files/raymond-house/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/raymond-house/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/raymond-house/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/raymond-house/index.html",
-		"oF": 0
-		},
-	"/design-files/skinner-hall/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/skinner-hall/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/skinner-hall/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/skinner-hall/index.html",
-		"oF": 0
-		},
-	"/design-files/swift-hall/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/swift-hall/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/swift-hall/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/swift-hall/index.html",
-		"oF": 0
-		},
-	"/design-files/the-alana-center/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/the-alana-center/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/the-alana-center/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/the-alana-center/index.html",
-		"oF": 0
-		},
-	"/design-files/the-frances-lehman-loeb-art-center/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/the-frances-lehman-loeb-art-center/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/the-frances-lehman-loeb-art-center/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/the-frances-lehman-loeb-art-center/index.html",
-		"oF": 0
-		},
-	"/design-files/the-frederick-ferris-thompson-memorial-library/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/the-frederick-ferris-thompson-memorial-library/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/design-files/the-frederick-ferris-thompson-memorial-library/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design-files/the-frederick-ferris-thompson-memorial-library/index.html",
-		"oF": 0
 		}
 	},
 "hooks": [

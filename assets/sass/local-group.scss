@@ -1,3 +1,5 @@
+@import "_add-on";
+
 @media screen and (min-width: 37.5em) {
     .u-pageHome {
         .RowContainer:first-of-type {
@@ -54,7 +56,7 @@ blockquote {
     font-style: italic;
 }
 .u-lHeader {
-    background-image: url(../images/adm-site-banner.jpg);
+    background-image: url(../images/masthead-6_Campus.jpg);
     padding: 25% 8% 0 0;
 }
 .u-folderThe-alana-center .u-lHeader {
@@ -91,7 +93,7 @@ blockquote {
 }
 .u-folderBlodgett-hall .u-lHeader {
     background-image: url(../images/Blodgett-Hall-02-WF-5.jpg);
-    background-position: center top;
+    background-position: center;
 }
 .u-folderThe-frances-lehman-loeb-art-center .u-lHeader {
     background-image: url(../images/Frances-Lehman-Loeb-Art-Center-SF.jpg);
