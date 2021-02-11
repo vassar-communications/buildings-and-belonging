@@ -155,9 +155,9 @@ blockquote {
 .modal-open .modal-row {
 	 position: fixed;
 	 width: 100%;
-	 height: 100%;
+	 height: auto;
 	 background: rgba(0,0,0,0.94);
-	 top: 0;
+	 bottom: 0;
 	 left: 0;
 	 z-index: 1000;
 	 display: flex !important;
@@ -167,6 +167,11 @@ blockquote {
 }
 .modal-content {
 	 max-width: 36em;
+    .button {
+        padding: 0;
+        margin-right: .5em;
+        border-radius: .3em;
+    }
 }
 .modal-content {
 	 color: #aaa;
@@ -187,17 +192,21 @@ blockquote {
 	 text-decoration: none;
 }
 .modal-content h2 {
-	 color: #aaa;
-	 letter-spacing: 0.024em;
-	 font-weight: normal;
-	 font-family: 'freight-big-pro';
-	 font-size: 2em;
+    color: #aaa;
+    letter-spacing: 0.024em;
+    font-weight: normal;
+    font-family: 'freight-big-pro';
+    font-size: 2em;
+}
+.u-lMain .modal-content h2 {
+    background: transparent;
+    color: #ed1c25;
 }
 .updated-date {
     font-style: italic;
 }
 .modal__close {
-	 position: fixed;
+	 position: absolute;
 	 top: 1em;
 	 right: 1em;
 	 display: none;
